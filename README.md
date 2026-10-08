@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! 👋 Seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**tamara349/tamara349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UniCesumar**, com foco em **desenvolvimento back-end utilizando Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprimorando meus conhecimentos em programação, desenvolvimento de APIs REST e boas práticas de desenvolvimento de software.
+
+Gosto de aprender na prática, resolver problemas e acompanhar minha evolução por meio de projetos.
+
+### 🛠️ Tecnologias e conhecimentos
+
+- 🐍 Python
+- 🌐 Flask e FastAPI
+- 🔗 APIs REST
+- 📦 Pydantic
+- 🧩 Lógica de programação e algoritmos
+- 🔧 Git e GitHub
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento back-end com Python
+- Organização e estruturação de aplicações
+- Bancos de dados e SQL
+- Boas práticas de programação
+
+### 🚀 Meus objetivos
+
+- Desenvolver projetos práticos para meu portfólio
+- Aprimorar minhas habilidades em desenvolvimento de software
+- Conquistar minha primeira oportunidade de **estágio em tecnologia**, preferencialmente em desenvolvimento back-end
+
+### 📫 Vamos nos conectar?
+
+- **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/tamara-teodósio-635866405/)
+
+Obrigada pela visita! 💜
